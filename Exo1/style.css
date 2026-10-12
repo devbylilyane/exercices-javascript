@@ -1,0 +1,10 @@
+button {
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+#message {
+    color: green;
+    opacity: 1;
+    transition: opacity 0.5s ease;
+}
